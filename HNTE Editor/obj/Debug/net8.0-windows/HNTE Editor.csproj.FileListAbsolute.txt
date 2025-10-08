@@ -1,0 +1,16 @@
+C:\Users\elifb\OneDrive\Desktop\HNTE Editor\bin\Debug\net8.0-windows\HNTE Editor.exe
+C:\Users\elifb\OneDrive\Desktop\HNTE Editor\bin\Debug\net8.0-windows\HNTE Editor.deps.json
+C:\Users\elifb\OneDrive\Desktop\HNTE Editor\bin\Debug\net8.0-windows\HNTE Editor.runtimeconfig.json
+C:\Users\elifb\OneDrive\Desktop\HNTE Editor\bin\Debug\net8.0-windows\HNTE Editor.dll
+C:\Users\elifb\OneDrive\Desktop\HNTE Editor\bin\Debug\net8.0-windows\HNTE Editor.pdb
+C:\Users\elifb\OneDrive\Desktop\HNTE Editor\obj\Debug\net8.0-windows\HNTE_Editor.Form1.resources
+C:\Users\elifb\OneDrive\Desktop\HNTE Editor\obj\Debug\net8.0-windows\HNTE Editor.csproj.GenerateResource.cache
+C:\Users\elifb\OneDrive\Desktop\HNTE Editor\obj\Debug\net8.0-windows\HNTE Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifb\OneDrive\Desktop\HNTE Editor\obj\Debug\net8.0-windows\HNTE Editor.AssemblyInfoInputs.cache
+C:\Users\elifb\OneDrive\Desktop\HNTE Editor\obj\Debug\net8.0-windows\HNTE Editor.AssemblyInfo.cs
+C:\Users\elifb\OneDrive\Desktop\HNTE Editor\obj\Debug\net8.0-windows\HNTE Editor.csproj.CoreCompileInputs.cache
+C:\Users\elifb\OneDrive\Desktop\HNTE Editor\obj\Debug\net8.0-windows\HNTE Editor.dll
+C:\Users\elifb\OneDrive\Desktop\HNTE Editor\obj\Debug\net8.0-windows\refint\HNTE Editor.dll
+C:\Users\elifb\OneDrive\Desktop\HNTE Editor\obj\Debug\net8.0-windows\HNTE Editor.pdb
+C:\Users\elifb\OneDrive\Desktop\HNTE Editor\obj\Debug\net8.0-windows\HNTE Editor.genruntimeconfig.cache
+C:\Users\elifb\OneDrive\Desktop\HNTE Editor\obj\Debug\net8.0-windows\ref\HNTE Editor.dll
